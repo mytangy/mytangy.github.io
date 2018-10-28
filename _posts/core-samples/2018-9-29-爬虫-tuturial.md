@@ -1,8 +1,8 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline"
-tags : [intro, beginner, jekyll, tutorial]
+category : 爬虫 
+tagline: ""
+tags : [python, 爬虫]
 ---
 {% include JB/setup %}
 
